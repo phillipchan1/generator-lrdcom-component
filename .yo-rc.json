@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Phillip Chan",
+      "authorEmail": "phillip.chan@liferay.com",
+      "authorUrl": ""
+    }
+  }
+}
